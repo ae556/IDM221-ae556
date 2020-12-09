@@ -79,10 +79,9 @@ body {
       }
       .welcome{
         color: white;
-        text-align: left;
+        text-align: center;
         margin:1.5rem;
         font-size: 0.5rem;
-  
       }
   
 
@@ -91,7 +90,7 @@ body {
     height: 60%;
     overflow: hidden;
     position: absolute;
-    top: 60%;
+    top: 63%;
     left: 50%;
     transform: translate(-50%,-50%);
     border: 1rem solid white;
